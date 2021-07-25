@@ -1,6 +1,6 @@
 # Compound Interest Calculator
 
-Calculate how much your money can save.
+Calculate how much money you can save with compound interest.
 
 ## Installation
 
